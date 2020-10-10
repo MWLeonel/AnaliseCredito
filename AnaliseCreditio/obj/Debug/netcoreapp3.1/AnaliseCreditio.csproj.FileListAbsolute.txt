@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.exe
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.deps.json
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.runtimeconfig.json
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.runtimeconfig.dev.json
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.dll
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\bin\Debug\netcoreapp3.1\AnaliseCreditio.pdb
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.AssemblyInfo.cs
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.dll
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.pdb
+C:\Users\Max\Desktop\AnaliseCreditio\AnaliseCreditio\obj\Debug\netcoreapp3.1\AnaliseCreditio.genruntimeconfig.cache
