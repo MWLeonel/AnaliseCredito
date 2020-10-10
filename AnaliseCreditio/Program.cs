@@ -33,13 +33,13 @@ namespace AnaliseCreditio
                 {
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Parabens, seu credito foi aprovado e aproveite bem o seu dinheiro ;)");
+                    Console.WriteLine("Parabens, seu credito foi aprovado e aproveite bem o seu dinheiro :)");
                 }
                 else
                 {
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Sinto muito, seu credito não foi aprovado entao passe fome :D");
+                    Console.WriteLine("Sinto muito, seu credito não foi aprovado, tente numa proxima vez :(");
                 }
             }
             else
