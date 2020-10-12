@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Max\\Desktop\\AnaliseCreditio\\AnaliseCreditio\\AnaliseCreditio.csproj",
+      "projectUniqueName": "C:\\Users\\Max\\Desktop\\Area de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\5. Decisão Simples e Operações Lógicas\\11. AnaliseCredito\\AnaliseCreditio\\AnaliseCreditio.csproj",
       "projectName": "AnaliseCreditio",
-      "projectPath": "C:\\Users\\Max\\Desktop\\AnaliseCreditio\\AnaliseCreditio\\AnaliseCreditio.csproj",
+      "projectPath": "C:\\Users\\Max\\Desktop\\Area de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\5. Decisão Simples e Operações Lógicas\\11. AnaliseCredito\\AnaliseCreditio\\AnaliseCreditio.csproj",
       "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Max\\Desktop\\AnaliseCreditio\\AnaliseCreditio\\obj\\",
+      "outputPath": "C:\\Users\\Max\\Desktop\\Area de Trabalho\\ETEC\\1ºMódulo\\Programação de Computadores I\\Visual Studio Repository\\5. Decisão Simples e Operações Lógicas\\11. AnaliseCredito\\AnaliseCreditio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
